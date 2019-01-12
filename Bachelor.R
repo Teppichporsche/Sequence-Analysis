@@ -1,5 +1,4 @@
 
-#Die Libraries TraMineR, fpc und cluster müssen geladen und installiert werden#
 
 library(TraMineR)
 library(cluster)
